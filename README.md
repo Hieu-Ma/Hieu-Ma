@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-⚡ Fun fact: I like to draw!
+<!-- ⚡ Fun fact: I like to draw! -->
